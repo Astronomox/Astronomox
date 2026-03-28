@@ -20,9 +20,11 @@ Python · TypeScript · Next.js · Angular · FastAPI · Supabase · Firebase ·
 
 ## Currently
 
+- Head of Technology @ Ventics AI
 - 200-level Data Science @ UNILAG
-- Open to internships and remote opportunities
+- Open to internships and remote freelance
 - Building in public, learning in public
+
 
 ## Reach Me
 
