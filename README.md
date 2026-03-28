@@ -26,4 +26,4 @@ Python · TypeScript · Next.js · Angular · FastAPI · Supabase · Firebase ·
 
 ## Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) · abdullahioriola@[your email]
+[LinkedIn](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) · abdullahioriola02@gmail.com
