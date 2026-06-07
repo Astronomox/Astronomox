@@ -1,27 +1,42 @@
-# Abdullahi Oriola - Astronomox
+# Abdullahi Oriola — Astronomox
 
-Data Science student at the University of Lagos. I build things that solve real problems - mostly for people like me.
+Data Science student at the University of Lagos. Self-taught full-stack developer
+shipping production apps across healthtech, fintech, edtech and AI.
 
-My projects tend to sit somewhere between product thinking and engineering. I don't just want to write code that works, I want to build things that matter to people who use them.
+I don't just write code that works. I build things that matter to the people using them.
+
+---
 
 ## What I've Built
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Dermaflow](https://dermaflow-zeta.vercel.app) | AI skin health diagnostics with heatmap explainability and oncology triage | Next.js, Gemini AI |
-| [MonieFlow](https://monieflow-spark.vercel.app) | AI gig platform for young Nigerians - fair pay, instant payments, zero broke days | Next.js, Firebase |
-| [DataFlix](https://data-flix-wqe3.vercel.app) | Full student portal with RBAC, AI assistant, and department-level content filtering | Angular, Supabase |
-| [EchoJournal](https://echo-journal-app.vercel.app) | AI journaling app with voice transcription, mood tracking, and pattern recognition | Next.js, Firebase |
-| [Flashcard App](https://flashcard-app-navy-sigma.vercel.app) | Clean, fast flashcard study tool | React, Node.js |
+| [Dermaflow AI](https://dermaflow-zeta.vercel.app) | AI skin diagnostic platform with heatmap explainability, Bio-LLM chatbot and oncology triage | Next.js · Gemini AI · Python |
+| [SlideIQ](https://slide-iq.vercel.app) | AI lecture quiz generator — upload a file, pick a personality, get 60 MCQs instantly | React · Claude AI · Firebase |
+| [DataFlix](https://data-flix-wqe3.vercel.app) | Full student portal with RBAC, AI assistant and department-level content filtering | Angular · Supabase · TypeScript |
+| [SpendWise](https://spendwise-app-snowy.vercel.app) | Personal finance tracker with smart categorization and spending insights | React · Supabase · Gemini AI |
+| [BizPadi](https://bizpadi.vercel.app) | AI companion matching Nigerian SMEs to grants and loans — over WhatsApp | FastAPI · WhatsApp API · Python |
+| [EchoJournal](https://echo-journal-app.vercel.app) | AI journaling app with voice transcription, Echo Mode and mood tracking | Next.js · Firebase · Gemini AI |
+| [Emmy Visuals](https://emmyvisuals.vercel.app) | Photography studio portfolio with screenshot protection for client privacy | React · Vite · Framer Motion |
+| [Gifted Hands Hub](https://giftedhandssolutions.vercel.app) | Study abroad consultancy landing page — full SEO and social metadata | Next.js · Tailwind · SEO |
+
+---
 
 ## Stack
-Python · TypeScript · Next.js · Angular · FastAPI · Supabase · Firebase · Tailwind CSS · Gemini AI
+
+Python · TypeScript · Next.js · React · Angular · FastAPI · Supabase · Firebase · Tailwind CSS · Gemini AI · Claude AI
+
+---
 
 ## Currently
-- Head of Technology @ Ventics AI
-- 200-level Data Science @ UNILAG
-- Open to internships and remote opportunities
-- Building in public, learning in public
+
+- 🎓 Data Science @ University of Lagos (200-level)
+- 🔭 Building in public across healthtech, fintech, edtech and AI
+- 💼 Open to internships and remote opportunities
+- 📍 Lagos, Nigeria
+
+---
 
 ## Reach Me
+
 [LinkedIn](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) · abdullahioriola02@gmail.com
