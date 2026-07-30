@@ -16,7 +16,7 @@
 
 <img src="./hd-now.svg" width="620" alt="now"/>
 
-- Interning @ BRTGC - building [AuraEstate](https://github.com/Astronomox/auraestate)
+- Interning @ BRTGC - building AuraEstate
 - HatchDev @ NITHUB
 - Community builder @ Teenovatex Labs
 - Data Science @ University of Lagos, Nigeria
