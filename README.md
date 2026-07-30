@@ -15,6 +15,7 @@
 <samp>Python &nbsp; Typescript &nbsp; Next.js &nbsp; React &nbsp; Fastapi &nbsp; Restapi &nbsp; Node.js &nbsp; Supabase &nbsp; Firebase &nbsp; Postgres &nbsp; Docker</samp>
 
 <img src="./hd-now.svg" width="620" alt="now"/>
+
 - Interning @ BRTGC - building [AuraEstate](https://github.com/Astronomox/auraestate)
 - HatchDev @ NITHUB
 - Community builder @ Teenovatex Labs
