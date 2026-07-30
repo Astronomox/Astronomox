@@ -8,7 +8,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Full-stack developer, Lagos. Data Science @ UNILAG. Self-taught since 2023.
+> 
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -16,7 +16,10 @@
 
 <img src="./hd-now.svg" width="620" alt="now"/>
 
-Interning at BRTGC — building [AuraEstate](https://github.com/Astronomox/auraestate), a multi-tenant real estate SaaS. HatchDev @ NITHUB. GPA 4.09.
+Interning @ BRTGC
+HatchDev @ NITHUB. 
+Community builder @ Teenovatex Labs
+Data Science @ University of Lagos, Nigeria
 
 <div align="center">
 <img src="./stats.svg" width="620" alt=""/>
