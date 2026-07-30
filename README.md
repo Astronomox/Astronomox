@@ -2,13 +2,13 @@
 
 <img src="./ascii.svg" width="420" alt=""/>
 
-[portfolio](https://abdullahioriola.vercel.app) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) &nbsp;·&nbsp; [x](https://twitter.com/Astro2theworld) &nbsp;·&nbsp; [email](mailto:abdullahioriola02@gmail.com)
+[Portfolio](https://abdullahioriola.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) &nbsp;·&nbsp; [X](https://twitter.com/Astro2theworld) &nbsp;·&nbsp; [Mail](mailto:abdullahioriola02@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> 
+> Full Stack Software Engineer
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
