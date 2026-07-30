@@ -2,7 +2,7 @@
 
 <img src="./ascii.svg" width="420" alt=""/>
 
-[Portfolio](https://abdullahioriola.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) &nbsp;·&nbsp; [X](https://twitter.com/Astro2theworld) &nbsp;·&nbsp; [Mail](mailto:abdullahioriola02@gmail.com)
+[Portfolio](https://abdullahioriola.vercel.app) &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/abdullahi-oriola-63459b2a7) &nbsp;&nbsp;&nbsp;·&nbsp&nbsp;&nbsp;; [X](https://twitter.com/Astro2theworld) &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp; [Mail](mailto:abdullahioriola02@gmail.com)
 
 </div>
 
