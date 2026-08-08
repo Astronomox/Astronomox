@@ -1,4 +1,4 @@
-# Oriola Abdullahi Adeola
+# Abdullahi Oriola
 
 <div align="center">
 
