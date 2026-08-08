@@ -11,7 +11,7 @@
 
 <img src="./hd-about.svg" width="620" alt="About"/>
 
-> Full Stack Software Engineer
+> Abdullahi Oriola - also known as Oriola Abdullahi and Oriola Abdullahi Adeola - Full Stack Software Engineer.
 
 <img src="./hd-stack.svg" width="620" alt="Stack"/>
 
