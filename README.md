@@ -1,5 +1,5 @@
+# Abdullahi Oriola
 <div align="center">
-  # Abdullahi Oriola
 <img src="./hd-name.svg" width="620" alt="Name"/>
 
 >Oriola Abdullahi Adeola
