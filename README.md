@@ -1,5 +1,4 @@
 # Oriola Abdullahi Adeola
-<img src="./hd-name.svg" width="620" alt="Name"/>
 
 <div align="center">
 
