@@ -1,4 +1,7 @@
 <div align="center">
+<img src="./hd-name.svg" width="620" alt="Name"/>
+
+>Oriola Abdullahi Adeola
 
 <img src="./ascii.svg" width="420" alt=""/>
 
@@ -6,15 +9,15 @@
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+<img src="./hd-about.svg" width="620" alt="About"/>
 
 > Full Stack Software Engineer
 
-<img src="./hd-stack.svg" width="620" alt="stack"/>
+<img src="./hd-stack.svg" width="620" alt="Stack"/>
 
 <samp>Python &nbsp; Typescript &nbsp; Next.js &nbsp; React &nbsp; Fastapi &nbsp; Restapi &nbsp; Node.js &nbsp; Supabase &nbsp; Firebase &nbsp; Postgres &nbsp; Docker</samp>
 
-<img src="./hd-now.svg" width="620" alt="now"/>
+<img src="./hd-now.svg" width="620" alt="Now"/>
 
 - Interning @ BRTGC - building AuraEstate
 - HatchDev @ NITHUB
