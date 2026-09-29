@@ -19,7 +19,7 @@
 
 <img src="./hd-now.svg" width="620" alt="Now"/>
 
-- Interning @ Touch and Pay Technologies Limited (YC22) 
+- Interning @ Touch and Pay Technologies Ltd  (YC W22) 
 - Interning @ FlyRankAI
 - Interning @ BRTGC - building AuraEstate
 - HatchDev @ NITHUB
