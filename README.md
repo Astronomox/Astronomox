@@ -19,6 +19,8 @@
 
 <img src="./hd-now.svg" width="620" alt="Now"/>
 
+- Interning @ Touch and Pay Technologies Limited (W22) 
+- Interning @ FlyRankAI
 - Interning @ BRTGC - building AuraEstate
 - HatchDev @ NITHUB
 - Community builder @ Teenovatex Labs
