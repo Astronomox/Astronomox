@@ -19,6 +19,8 @@
 
 <img src="./hd-now.svg" width="620" alt="Now"/>
 
+
+- Interning @ YAYO Digital
 - Interning @ Touch and Pay Technologies Ltd  (YC W22) 
 - Interning @ FlyRankAI
 - Interning @ BRTGC - building AuraEstate
